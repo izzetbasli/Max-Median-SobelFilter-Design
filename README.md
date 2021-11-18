@@ -1,5 +1,5 @@
 # Max-Median-SobelFilter-Design
-Digital Image Processesing Gonzales kitabı baz alınarak, numpy kütüphanesi kullanılarak filtereler oluşturulmuştur.
+digital image processing gonzalez kitabı baz alınarak, numpy kütüphanesi kullanılarak filtereler oluşturulmuştur.
 Maximum Filtre Formülü:
 <img width="469" alt="max-filter-formula" src="https://user-images.githubusercontent.com/77061424/142467529-782a617a-1ede-4ba2-ba0e-aab64f487885.png">
 Gürültülü resme uygulanan filtre sonucu:
